@@ -1,0 +1,9 @@
+Everything in this program can be controlled with the numpad and arrow keys.  
+The arrow keys control the camera, with left and right rotating the camera in the specified direction, whilst up and down move the camera forward and backward respectively.  
+Whilst NumLock is on, the directional numbers (8, 4, 6 and 2) will apply a force and move the leftmost cube in the specified direction.  
+The number 5 will apply an upward force, and move the cube upwards.  To fall, release the button and gravity will pull the cube downwards.  
+Numpad 7 will apply a torque force to the cube, causing it to rotate around an axis.  
+Numpad 1 will toggle which type of drag is currently applied to the leftmost cube, swapping between Laminar and Turbulent.  
+Numpad 3 will activate buoyancy on the rightmost cube, causing it to float upwards.  
+Once in this state, the cube can be interacted with whilst still keeping its buoyancy effect.  
+Numpad 0 will reset the leftmost cube to its default position and set the velocity back to 0 in all directions.
